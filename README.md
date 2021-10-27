@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dvn10
 - 👀 I’m interested in learning more about QA!
-- 🌱 I’m currently learning on freecodecamps.
+- 🌱 I’m currently learning Data Analytics through Google's program.
 - I hope you have a good day :)
 
 <!---
